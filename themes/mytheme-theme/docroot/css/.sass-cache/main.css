@@ -2555,5 +2555,173 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   background-image: -o-linear-gradient(#f2f2f2, #cccccc);
   background-image: linear-gradient(#f2f2f2, #cccccc); }
 
-/* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
+html {
+  height: 100%;
+  /* ---------- Wrapper ---------- */
+  /* ---------- Banner ---------- */
+  /* ---------- Content ---------- */
+  /* ---------- Footer ---------- */ }
+  html body {
+    background-image: -webkit-gradient(linear, to bottom, to top, color-stop(0%, #00c4ff), color-stop(50%, rgba(0, 196, 255, 0.3)), color-stop(100%, rgba(238, 231, 0, 0)));
+    background-image: -webkit-linear-gradient(to bottom, #00c4ff, rgba(0, 196, 255, 0.3), rgba(238, 231, 0, 0));
+    background-image: -moz-linear-gradient(to bottom, #00c4ff, rgba(0, 196, 255, 0.3), rgba(238, 231, 0, 0));
+    background-image: -o-linear-gradient(to bottom, #00c4ff, rgba(0, 196, 255, 0.3), rgba(238, 231, 0, 0));
+    background-image: linear-gradient(to bottom, #00c4ff, rgba(0, 196, 255, 0.3), rgba(238, 231, 0, 0));
+    background-repeat: no-repeat;
+    height: 100%;
+    /*-------------------Admin Menus------------------------*/
+    /*---------Add, Edit, and Preview Controls---------*/
+    /*--- Return Body styling for popup menus back to normal --- */ }
+    html body .nav-account-controls .user-avatar .dropdown-menu,
+    html body .nav-account-controls .admin-links .dropdown-menu,
+    html body .nav-account-controls .dockbar-user-notifications .dropdown-menu,
+    html body .nav-account-controls .my-sites .dropdown-menu,
+    html body .nav-account-controls .sign-in a {
+      background-color: #107dac; }
+    html body .nav-account-controls .user-avatar .dropdown-toggle,
+    html body .nav-account-controls .admin-links .dropdown-toggle,
+    html body .nav-account-controls .dockbar-user-notifications .dropdown-toggle,
+    html body .nav-account-controls .my-sites .dropdown-toggle,
+    html body .nav-account-controls .sign-in a {
+      background-color: #107dac; }
+      html body .nav-account-controls .user-avatar .dropdown-toggle:hover,
+      html body .nav-account-controls .admin-links .dropdown-toggle:hover,
+      html body .nav-account-controls .dockbar-user-notifications .dropdown-toggle:hover,
+      html body .nav-account-controls .my-sites .dropdown-toggle:hover,
+      html body .nav-account-controls .sign-in a:hover {
+        background-color: #00C4FB; }
+    html body .nav-add-controls #_145_addPanel,
+    html body .nav-add-controls #_145_previewPanel,
+    html body .nav-add-controls #_145_editLayoutPanel {
+      background-color: #107dac; }
+      html body .nav-add-controls #_145_addPanel:hover,
+      html body .nav-add-controls #_145_previewPanel:hover,
+      html body .nav-add-controls #_145_editLayoutPanel:hover {
+        background-color: #00C4FB; }
+    html body .nav-add-controls .page-edit-controls,
+    html body .nav-add-controls .site-add-controls,
+    html body .nav-add-controls .page-preview-controls,
+    html body .nav-add-controls .toggle-controls {
+      border-radius: 6px; }
+    html body.portal-popup {
+      background-image: none; }
+  html #wrapper {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0;
+    position: relative; }
+  html #banner {
+    background-color: white;
+    /* ---------- Main Navigation ---------- */ }
+    html #banner #heading {
+      padding: 0 4%; }
+      html #banner #heading .site-title .logo {
+        padding-bottom: 16px; }
+      html #banner #heading .page-title {
+        color: #107dac;
+        font-style: oblique;
+        text-transform: uppercase; }
+    html #banner #navigation {
+      background-color: #107dac;
+      display: block;
+      position: relative;
+      z-index: 1; }
+      html #banner #navigation .active {
+        background-color: #00C4FF; }
+        html #banner #navigation .active > a {
+          color: #FFF; }
+      html #banner #navigation .dropdown-menu li {
+        background: #00ACFF;
+        border-width: 0;
+        margin: 0;
+        position: relative; }
+        html #banner #navigation .dropdown-menu li:after, html #banner #navigation .dropdown-menu li:before {
+          border-width: 0; }
+        html #banner #navigation .dropdown-menu li a {
+          color: #FFF; }
+          html #banner #navigation .dropdown-menu li a:hover {
+            background: rgba(0, 0, 0, 0) none repeat scroll 0 0; }
+      html #banner #navigation li {
+        margin: 0 4px;
+        padding: 15px 10px;
+        position: absolute; }
+        html #banner #navigation li:hover {
+          background-color: #00C4FF; }
+          html #banner #navigation li:hover .child-menu {
+            display: block;
+            margin-top: 0; }
+          html #banner #navigation li:hover a {
+            color: #FFF;
+            text-decoration: none; }
+      html #banner #navigation ul li:hover {
+        background-color: #00C4FF; }
+        html #banner #navigation ul li:hover .child-menu {
+          display: block;
+          padding: 0; }
+          html #banner #navigation ul li:hover .child-menu li {
+            background-color: #107dac; }
+            html #banner #navigation ul li:hover .child-menu li:hover {
+              background-color: #00C4FB; }
+          html #banner #navigation ul li:hover .child-menu a {
+            color: #FFF;
+            margin: -10px;
+            text-decoration: none; }
+      html #banner #navigation > ul > li {
+        display: inline-block;
+        font-size: 1.2em;
+        position: relative; }
+        html #banner #navigation > ul > li a {
+          color: #FFF;
+          padding: 15px 10px; }
+  html #content {
+    background-color: white;
+    padding: 0px 20px;
+    /* ---------- Carousel ---------- */
+    /*------Activities------*/
+    /*------Out of This World------*/
+    /*------Reserve Button------*/
+    /*--Portlet styles---*/ }
+    html #content .carousel {
+      z-index: 0; }
+    html #content .img:hover {
+      opacity: 0.5; }
+    html #content #columnLeft {
+      font-size: 36px;
+      line-height: 60px;
+      text-align: center;
+      color: #107dac; }
+    html #content #columnRight {
+      font-size: 16px;
+      line-height: 30px;
+      color: #696969; }
+    html #content #reserveBtnWrapper {
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 25px;
+      width: 300px; }
+      html #content #reserveBtnWrapper #reserveBtn {
+        background-color: #00C4FB;
+        border-radius: 10px;
+        color: #FFF;
+        font-size: 1.5em;
+        height: 62px;
+        margin: 30px;
+        padding: 10px 0; }
+        html #content #reserveBtnWrapper #reserveBtn:hover {
+          background-color: #107dac; }
+        html #content #reserveBtnWrapper #reserveBtn a {
+          border-radius: 10px;
+          color: #FFF;
+          padding: 9px 10px;
+          text-decoration: none; }
+    html #content .portlet .portlet-title img {
+      display: none; }
+  html footer {
+    background-color: #107dac;
+    padding: 35px; }
+    html footer .powered-by {
+      color: #FFF;
+      float: right;
+      margin-top: 0; }
 
