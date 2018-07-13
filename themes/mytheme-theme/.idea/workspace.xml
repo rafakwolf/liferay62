@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3ca53b7-8b3e-4547-8c32-9b60b97cc720" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docroot/_diffs/css/_aui_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docroot/_diffs/templates/portal_normal.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytheme-theme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docroot/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docroot/css/_aui_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docroot/css/_aui_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docroot/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/docroot/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docroot/templates/portal_normal.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/docroot/templates/portal_normal.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/src/main/resources/resources-importer/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/src/main/resources/resources-importer/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/src/main/webapp/WEB-INF/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/docroot/_diffs/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/src/main/webapp/WEB-INF/liferay-plugin-package.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/classes/resources-importer/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/classes/resources-importer/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/WEB-INF/classes/resources-importer/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/WEB-INF/classes/resources-importer/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/WEB-INF/liferay-plugin-package.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/application_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/aui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/aui_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/base_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/custom_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/dockbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/dockbar_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/extras.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/extras_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/layout_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/main_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/navigation_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/portlet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/.sass-cache/portlet_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/_aui_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/_aui_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/_liferay_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_accordion.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_button-groups-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_button-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_buttons-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_carousel-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_component-animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_hero-unit.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_labels-badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_layouts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_modals-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_navs-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_pager.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_pagination-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_popovers-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_progress-bars-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_progress-bars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_responsive-1200px-min.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_responsive-767px-max.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_responsive-768px-979px.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_responsive-navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_responsive-utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_sprites.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_thumbnails.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_tooltip-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_utilities-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_variables-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/_wells.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-alloy.dev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-alloy.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-alloy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-alloy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-alloy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/font/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_icons-alloy-extra.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_icons-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_mixins-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_path-alloy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/font-awesome-ie7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/alloy-font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/aui/responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/dockbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/extras.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/css/portlet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/add_content/layouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/add_content/portlet_category.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/add_content/portlet_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/add_content/portlet_item_archived_setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/add_content/portlet_item_instanceable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/api/exception.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/api/execute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/api/method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/api/property.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/api/return_type.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/button_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/button_bg_over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/button_bg_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/button_bg_selected_over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/current_page_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/current_page_hover_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/forbidden_action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/handle_sort_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/header_row_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/layouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/loading_indicator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/menu_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/paginator_link_current_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/panel_direction_indicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/panel_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/panel_header_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/panel_header_toggler_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/panel_header_toggler_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/state_active_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/state_default_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/state_hover_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/subheader_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/application/tabs_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/01_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/02_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/03_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/03_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/04_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/04_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/05_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/05_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/05_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/05_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/06_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/06_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/07_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/08_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/08_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/08_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/08_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/09_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/09_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/09_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/09_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/10_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/11_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/12_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/13_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/13_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/13_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/paging_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/paging_last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/paging_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/paging_previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/arrows/resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/common/state_active_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/common/state_default_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/common/state_hover_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/common/state_selected_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/icon_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/loading_indicator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/menu/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/aui/panel/header_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/blogs/blogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/blogs/props.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/blogs/xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/bookmarks/add_bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/calendar/calendar_day_drop_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/calendar/event_indicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/calendar/event_indicator_current.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/action_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/activate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_drive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_instance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_portlet_display_template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_template_display.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_template_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/add_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/all_pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/assign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/assign_user_group_roles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/assign_user_roles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/attributes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/breadcrumbs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/breadcrumbs_hud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/category.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/configuration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/configuration_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/control_panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/conversation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/deactivate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/define_permissions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/delete_attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/drive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/drive_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/edit_template_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/edit_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/expire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/export.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/feed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/folder_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/folder_full_document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/global.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/guest_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/history.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/impersonate_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/install_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/key_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/leave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/liferay_sync.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/links.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/manage_nodes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/manage_task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/maximize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/message_panel_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/minimize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/my_places_private.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/my_places_public.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/news.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/open_window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/openid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/organization_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/organization_icon_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/orphan_pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/page_template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/permissions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/portlet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/recent_changes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/reply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/revision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/saved_in_database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/services.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/shadow_bottom_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/shadow_top_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/sharing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/sign_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/signal_instance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/site_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/site_template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/sitemap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/staging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/status_offline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/status_online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/subscribe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/tabs_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/team_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/telephone_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/tool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/trash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unassign_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unassign_user_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unchecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unlink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/unsubscribe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/user_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/user_icon_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_articles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_instances.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_locations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_structures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_tasks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_templates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/view_users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/common/welcome_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/control_panel/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/control_panel/input_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/control_panel/panel_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/control_panel/selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/desktop_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/desktop_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/full_size_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/full_size_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/mobile_horizontal_opacity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/mobile_horizontal_with_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/mobile_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/mobile_vertical_opacity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/mobile_vertical_with_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/tablet_horizontal_opacity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/tablet_horizontal_with_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/tablet_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/tablet_vertical_opacity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/device_preview/tablet_vertical_with_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/diff/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/diff/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/diff/underline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/button_active_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/control_panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/customizations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/dockbar_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/places.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/toggle_controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/unchecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/dockbar/unpin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/add_document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/add_multiple_documents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/msoffice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/preview_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/preview_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/document_library/preview_zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/angry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/bashful.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/big_grin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/blink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/blush.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/bored.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/closed_eyes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/cold.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/cool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/darth_vader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/dry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/exclamation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/girl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/glare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/happy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/huh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/in_love.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/karate_kid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/laugh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/mad.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/mellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/ninja.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/oh_my.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/pac_man.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/roll_eyes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/sad.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/sleep.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/smug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/suspicious.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/tongue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/unsure.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/wacko.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/wink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/emoticons/wub.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/compressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/drive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/drive_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/flash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_empty_article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_empty_bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_empty_document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_full_article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_full_bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_full_document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/folder_full_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/overlay_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/overlay_lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/presentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/spreadsheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/large/wiki_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/bmp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/docx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/gif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/gz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/htm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/jpeg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/jpg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/lar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/odb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/odf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/odg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/odp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/ods.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/odt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/ppt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/pptx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/rtf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/swf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/sxc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/sxi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/sxw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/tar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/tgz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/tiff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/tsv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/vsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/xlsx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/file_system/small/zip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/forms/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/forms/input_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/image_gallery_display/add_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/image_gallery_display/slide_show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/checkbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/document_library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/form_builder_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/form_builder_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/form_builder_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/form_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/image_gallery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/image_uploader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/link_to_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/multiselection_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/selectbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/selection_break.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/text_field.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/textarea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/journal/textbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ar_SA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/bg_BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ca_AD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ca_ES.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/cs_CZ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/da_DK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/de_DE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/el_GR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/en_AU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/en_GB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/en_US.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/es_ES.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/et_EE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/eu_ES.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/fa_IR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/fi_FI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/fr_CA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/fr_FR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/gl_ES.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/hi_IN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/hr_HR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/hu_HU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/in_ID.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/it_IT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/iw_IL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ja_JP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ko_KR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/lo_LA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/lt_LT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/nb_NO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/nl_BE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/nl_NL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/pl_PL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/pt_BR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/pt_PT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ro_RO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/ru_RU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/sk_SK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/sl_SI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/sr_RS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/sr_RS_latin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/sv_SE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/tr_TR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/uk_UA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/vi_VN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/zh_CN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/language/zh_TW.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/login/facebook_login_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/add_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/check_mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/compose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/delete_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/edit_draft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/edit_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/flagged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/read.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/rename_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/replied.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/reply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/reply_all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/mail/unread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/ban_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/hyperlink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/italic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/justify_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/justify_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/justify_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/ordered_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/priority_announcement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/priority_sticky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/priority_urgent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/quoteleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/quoteright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/spacer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/strike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/t.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/thread_view_combination.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/thread_view_flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/thread_view_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/unban_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/underline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/message_boards/unordered_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/messages/alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/messages/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/messages/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/messages/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/navigation/add_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/navigation/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/close_borderless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/configuration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/draggable_borderless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/edit_borderless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/edit_defaults.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/edit_guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/header_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/maximize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/minimize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/options_borderless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/options_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/placeholder_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/pop_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/portlet_css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/portlet_css_borderless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/portlet/restore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/complete_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/complete_middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/complete_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/incomplete_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/incomplete_middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/incomplete_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/progress_bar/loading_animation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/flagged_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/flagged_icon_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_on_half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_on_quarter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/star_on_threequarters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/thumbs_cancel_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/thumbs_down_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/thumbs_down_icon_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/thumbs_up_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/ratings/thumbs_up_icon_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shadow/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shadow/middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shadow/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_amex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_discover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_ver_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/shopping/cc_visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/add_coworker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/add_friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/coworker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/follow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/follower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/following.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/remove_coworker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/remove_friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/unblock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social/unfollow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social_bookmarks/digg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social_bookmarks/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social_bookmarks/furl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/social_bookmarks/reddit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/spacer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/staging_bar/live.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/staging_bar/staging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/collapse_all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/expand_all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/page_copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/page_locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/trees/root.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/users_admin/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/users_admin/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/wiki/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/wiki/return_to_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/images/wiki/tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/init.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/init.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/init_custom.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/init_custom.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/navigation.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/navigation.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portal_normal.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portal_normal.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portal_pop_up.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portal_pop_up.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portlet.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/target/theme-test-1.0-SNAPSHOT/templates/portlet.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themetest/themetest.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/docroot/WEB-INF/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opa</find>
+      <find>dockbar-item</find>
+      <find>dockbar</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\dev\eclipse-workspace\liferay-plugins-sdk-6.2\themes\mytheme-theme</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../DeviceInfo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../lfrgs-google-pario" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../liferay-blade-samples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../liferay-estudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../liferay-estudos2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/docroot/_diffs/css/custom.scss" />
+        <option value="$PROJECT_DIR$/docroot/css/_mixins.scss" />
+        <option value="$PROJECT_DIR$/docroot/_diffs/css/_mixins.scss" />
+        <option value="$PROJECT_DIR$/docroot/_diffs/css/custom.css" />
+        <option value="$PROJECT_DIR$/docroot/css/custom.css" />
+        <option value="$PROJECT_DIR$/docroot/_diffs/css/_aui_variables.scss" />
+        <option value="$PROJECT_DIR$/docroot/templates/portal_normal.ftl" />
+        <option value="$PROJECT_DIR$/docroot/_diffs/templates/portal_normal.ftl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="212" />
+    <option name="y" value="46" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mytheme-theme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytheme-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mytheme-theme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytheme-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="docroot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../liferay-portal-6.2-ce-ga6/tomcat-7.0.62/temp/liferay/ruby/gems/compass-0.12.2/bin/compass" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42988506" />
+    <property name="settings.editor.selected.configurable" value="settings.css.dialects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\eclipse-workspace\liferay-plugins-sdk-6.2\themes\mytheme-theme\docroot\_diffs\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ca53b7-8b3e-4547-8c32-9b60b97cc720" name="Default" comment="" />
+      <created>1531405388109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531405388109</updated>
+      <workItem from="1531405396589" duration="5016000" />
+      <workItem from="1531421147730" duration="5564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10580000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.16791044" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="all" isVisible="false" />
+        <filter targetName="build-client" isVisible="false" />
+        <filter targetName="build-lang" isVisible="false" />
+        <filter targetName="build-lang-cmd" isVisible="false" />
+        <filter targetName="build-service" isVisible="false" />
+        <filter targetName="build-wsdd" isVisible="false" />
+        <filter targetName="compile-import-shared" isVisible="false" />
+        <filter targetName="compile-jsp" isVisible="false" />
+        <filter targetName="compile-test" isVisible="false" />
+        <filter targetName="compile-test-integration" isVisible="false" />
+        <filter targetName="compile-test-unit" isVisible="false" />
+        <filter targetName="format-wsdl" isVisible="false" />
+        <filter targetName="format-xsd" isVisible="false" />
+        <filter targetName="install" isVisible="false" />
+        <filter targetName="jar-javadoc" isVisible="false" />
+        <filter targetName="jar-source" isVisible="false" />
+        <filter targetName="javadoc" isVisible="false" />
+        <filter targetName="merge" isVisible="false" />
+        <filter targetName="merge-unzip" isVisible="false" />
+        <filter targetName="patch" isVisible="false" />
+        <filter targetName="shrink-zip-cmd" isVisible="false" />
+        <filter targetName="test-class" isVisible="false" />
+        <filter targetName="test-class-group" isVisible="false" />
+        <filter targetName="test-package" isVisible="false" />
+        <filter targetName="build-css" isVisible="false" />
+        <filter targetName="build-db" isVisible="false" />
+        <filter targetName="build-upgrade-table" isVisible="false" />
+        <filter targetName="build-wsdl" isVisible="false" />
+        <filter targetName="build-xsd" isVisible="false" />
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="compile" isVisible="false" />
+        <filter targetName="create" isVisible="false" />
+        <filter targetName="deploy" isVisible="false" />
+        <filter targetName="direct-deploy" isVisible="false" />
+        <filter targetName="direct-deploy-ext-cmd" isVisible="false" />
+        <filter targetName="direct-deploy-hook-cmd" isVisible="false" />
+        <filter targetName="direct-deploy-layouttpl-cmd" isVisible="false" />
+        <filter targetName="direct-deploy-portlet-cmd" isVisible="false" />
+        <filter targetName="direct-deploy-theme-cmd" isVisible="false" />
+        <filter targetName="direct-deploy-web-cmd" isVisible="false" />
+        <filter targetName="format-javadoc" isVisible="false" />
+        <filter targetName="format-source" isVisible="false" />
+        <filter targetName="jar" isVisible="false" />
+        <filter targetName="prepare-upgrade-table" isVisible="false" />
+        <filter targetName="print-current-time" isVisible="false" />
+        <filter targetName="print-stale-snapshot" isVisible="false" />
+        <filter targetName="publish-local-m2-release" isVisible="false" />
+        <filter targetName="publish-local-m2-snapshot" isVisible="false" />
+        <filter targetName="publish-remote-m2-release" isVisible="false" />
+        <filter targetName="publish-remote-m2-snapshot" isVisible="false" />
+        <filter targetName="release" isVisible="false" />
+        <filter targetName="run-cpd" isVisible="false" />
+        <filter targetName="run-pmd" isVisible="false" />
+        <filter targetName="setup-arquillian" isVisible="false" />
+        <filter targetName="setup-eclipse" isVisible="false" />
+        <filter targetName="setup-jrebel" isVisible="false" />
+        <filter targetName="sort-xml-attributes" isVisible="false" />
+        <filter targetName="test" isVisible="false" />
+        <filter targetName="test-integration" isVisible="false" />
+        <filter targetName="test-unit" isVisible="false" />
+        <filter targetName="war" isVisible="false" />
+        <filter targetName="watch" isVisible="false" />
+      </targetFilters>
+      <expanded value="false" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/custom.scss" />
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/alloy-font-awesome/scss/_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/_compass.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/_compass.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="true" selection-end-line="221" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="221" column="1" selection-start-line="221" selection-start-column="1" selection-end-line="221" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/_aui_variables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/WEB-INF/liferay-plugin-package.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/WEB-INF/liferay-look-and-feel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/templates/portal_normal.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/_aui_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/_diffs/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytheme-theme.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/templates/portlet.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/templates/portal_pop_up.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/templates/portal_normal.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="49" lean-forward="true" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/templates/init_custom.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/dockbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/images/progress_bar/loading_animation.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/portlet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/templates/navigation.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/_liferay_custom.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/_pagination.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/_responsive-767px-max.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/_responsive-768px-979px.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/aui/_responsive-1200px-min.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docroot/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mytheme-theme</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
