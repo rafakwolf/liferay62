@@ -89,7 +89,7 @@
 	</dependencies>
 	<properties>
 		<liferay.theme.parent>_styled</liferay.theme.parent>
-		<liferay.theme.type>vm</liferay.theme.type>
+		<liferay.theme.type>Freemarker</liferay.theme.type>
 
 		<liferay.version>6.2.5</liferay.version>
 		<liferay.maven.plugin.version>6.2.5</liferay.maven.plugin.version>
